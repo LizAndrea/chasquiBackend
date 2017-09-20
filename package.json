@@ -1,7 +1,7 @@
 {
   "name": "chasqui-node-services",
   "version": "1.0.0",
-  "description": "Chasqui Node Services",
+  "description": "ChasquiReport Node Services",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
